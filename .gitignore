@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.example
+*.log
+.DS_Store
+bash_events/
+conversations/
+Economy-Bot.zip
+project/
+lost+found/

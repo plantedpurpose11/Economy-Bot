@@ -1,0 +1,20 @@
+{
+  "rareAnimals": [
+    { "emoji": "🦉", "name": "owl" },
+    { "emoji": "🕊️", "name": "dove" },
+    { "emoji": "🦕", "name": "sauropod" },
+    { "emoji": "🦐", "name": "shrimp" },
+    { "emoji": "🦞", "name": "lobster" },
+    { "emoji": "🦀", "name": "crab" },
+    { "emoji": "🦖", "name": "t_rex" },
+    { "emoji": "🦄", "name": "unicorn" },
+    { "emoji": "🦩", "name": "flamingo" },
+    { "emoji": "🦂", "name": "scorpion" },
+    { "emoji": "🦧", "name": "orangutan" },
+    { "emoji": "🦈", "name": "shark" },
+    { "emoji": "🐧", "name": "penguin" },
+    { "emoji": "🦣", "name": "mammoth" },
+    { "emoji": "🦬", "name": "bison" },
+    { "emoji": "🦫", "name": "beaver" }
+  ]
+}

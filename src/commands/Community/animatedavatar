@@ -1,0 +1,33 @@
+const { SlashCommandBuilder, EmbedBuilder } = require("discord.js");
+
+module.exports = {
+  owner: true,
+  data: new SlashCommandBuilder()
+    .setName("animated-avatar")
+    .setDescription("Animate an avatar for your bot.")
+    .addAttachmentOption((option) =>
+      option
+        .setName("avatar")
+        .setDescription("The avatar to animate")
+        .setRequired(true)
+    ),
+  async execute(interaction) {
+    const { options } = interaction;
+    const avatar = options.getAttachment("avatar");
+
+    async function sendMessage(message) {
+      const embed = new EmbedBuilder().setDescription(message);
+
+      await interaction.reply({ embeds: [embed], ephemeral: true });
+    }
+
+    var error;
+    await client.user.setAvatar(avatar.url).catch((err) => {
+      error = true;
+      console.log(err);
+      return sendMessage(`${err.toString()}`);
+    });
+    if (error) return;
+    await sendMessage("i have uploaded your avatar");
+  },
+};

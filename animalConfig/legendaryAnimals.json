@@ -1,0 +1,346 @@
+{
+    "legendaryAnimals": [
+        {
+            "emoji": "<:white_wolf:1176451537904615434>",
+            "name": "white_wolf",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177280555881091082/ai_4.jpg?ex=6571eef5&is=655f79f5&hm=49c8f36fcb2548be83da4c721405240f9c51cc0f4e8baaaee19c6b302896f756&"
+          },
+          {
+            "emoji": "<:water_slay:1177206433863970856>",
+            "name": "water_slay",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177280824404615360/4829f2d8-d96e-4738-a663-93e7ab0c9305-removebg-preview-min.png?ex=6571ef35&is=655f7a35&hm=9048e11bbd336fdcb69612d36511f69026f8ac2f35f4bf6066b3aed488cf4f16&"
+          },
+          {
+            "emoji": "<:snowly_pup:1176434018292596826> ",
+            "name": "snowly_pup",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177281084522774528/f1b965dc-a6dd-4d48-b715-0b20cb0ecf5d.jpg?ex=6571ef73&is=655f7a73&hm=1fe1a9cb021b470c4111690c1f145a6c40bcb5a61f010aa9007cd36fced8ad46&"
+          },
+          {
+            "emoji": "<:snowly_forst:1177209112296177664>",
+            "name": "snowly_forst",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177281226592227368/clgelfvy90016mk08s88cxwdp_1.jpg?ex=6571ef95&is=655f7a95&hm=567affb97223a717d388a75494bb4eba576f2060fbc507aa838cd73e5332a021&"
+          },
+          {
+            "emoji": "<:redox:1176428474391601162>",
+            "name": "redox",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177281624384221244/0005.jpg?ex=6571eff4&is=655f7af4&hm=c2dd55b9ab4c0f094a0d4d844fe094a8d8609c73b1df8f67dfe2e2f507191e63&"
+          },
+          {
+            "emoji": "<:redex:1176437770844131348>",
+            "name": "redex",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177281793305612418/e4191a7b-1552-449d-a550-956ea3a7d3ca.jpg?ex=6571f01c&is=655f7b1c&hm=fbd2ff6253b0c627db0498400d077454bd600252fff9260d25d2257a8064e87c&"
+          },
+          {
+            "emoji": "<:pink_dop:1176428452715446443>",
+            "name": "pink_dop",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177282024885714994/0009.jpg?ex=6571f053&is=655f7b53&hm=4a3f0c51ba1cefbac1b5b16e61641384fd597c379bce7cac7129378a07bc6e7c&"
+          },
+          {
+            "emoji": "<:pheonix:1176433115808403476>",
+            "name": "pheonix",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177282147061600266/817141c2-9829-4b7b-93a4-d4c0f09ffae7.jpg?ex=6571f070&is=655f7b70&hm=9a2b5da8f2315784f22ff08c9b5a24bf943975505f67fc16d27cd1eebd5b91e9&"
+          },
+          {
+            "emoji": "<:pexmon:1176451534956003398>",
+            "name": "pexmon",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177282312417837097/ai_3.jpg?ex=6571f098&is=655f7b98&hm=efbd2031b2bbdc3b8c576fe6cf607a6573bc8d7c9bfeab11f0b9aa74f3a0791c&"
+          },
+          {
+            "emoji": "<:optic_rox:1176437775357190206>",
+            "name": "optic_rox",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177282467401572385/5092e03c-d45b-4c0c-b04f-ffdc7fa1002b.jpg?ex=6571f0bd&is=655f7bbd&hm=7b29156811887763100d63dec5b05662618fdcd3040018a4dc5706de4dc635e4&"
+          },
+          {
+            "emoji": "<:midex:1177206446652411964>",
+            "name": "midex",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177282647551131648/54d2c692-6f2c-41c3-98f9-0bf89fdaf429-removebg-preview.png?ex=6571f0e8&is=655f7be8&hm=1c48b0610b26072b20d09fe328ad337bc49a04e78ddf1efb4c3cdd608f17f633&"
+          },
+          {
+            "emoji": "<:mewdow:1176428478451691581>",
+            "name": "mewdow",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177282870570655774/0004.jpg?ex=6571f11d&is=655f7c1d&hm=88b0c742238e0e0c27b4acc57eba2e3b9a268101f1c10d16a7aace486b8df68e&"
+          },
+          {
+            "emoji": "<:mechanical_dog:1177213451672764416>",
+            "name": "mechanical_dog",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177283198221308036/ai_pet.jpg?ex=6571f16b&is=655f7c6b&hm=c3b4ec4e95b8ead11da5215efe4575cbf51d13d77dae8a2d653dc7ad46e85f22&"
+          },
+          {
+            "emoji": "<:maydos:1177209114695319553>",
+            "name": "maydos",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177283395957555200/734e4629-3c38-4aa4-bb4f-3d5c5d4203ad.jpg?ex=6571f19a&is=655f7c9a&hm=6cf318ca0d0d796bb8aa05886f02e629a94bb82416d65a897b0588090051c27c&"
+          },
+          {
+            "emoji": "<:lwolf:1176448917605449759>",
+            "name": "lwolf",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177283548265328740/a36c6b32-abdb-4b30-aa84-2f80545b11af.jpg?ex=6571f1be&is=655f7cbe&hm=74a297808ce15b468552366736ccaab4ded299c54ca02a8662415893fcd28dbb&"
+          },
+          {
+            "emoji": "<:lpokemon:1176428469635252304>",
+            "name": "lpokemon",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177283664963436695/0006.jpg?ex=6571f1da&is=655f7cda&hm=a863fc7df3ec39c5ef8c5ff2403f63aa3659a5a147d729e38c1e0dfb2a670b45&"
+          },
+          {
+            "emoji": "<:infected_rex:1176451541838856263>",
+            "name": "infected_rex",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177283872925417493/ai_5.jpg?ex=6571f20c&is=655f7d0c&hm=169912b7b04134b0dee73804ade8d0910a92856dabc459ed66cdab0d5a42275a&"
+          },
+          {
+            "emoji": "<:hunter:1176428492024467536>",
+            "name": "hunter",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177284032791322775/0001.jpg?ex=6571f232&is=655f7d32&hm=59e41317c8c2c744c880c13c4dea527643069a276f13e586694690e4461546b8&"
+          },
+          {
+            "emoji": "<:guardian:1176449889178243072>",
+            "name": "guardian",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177284265499705434/ai.jpg?ex=6571f269&is=655f7d69&hm=403152c9d013b086511de062dcaaf21506eb5fec38620ddd36940dfb46e31f3a&"
+          },
+          {
+            "emoji": "<:greendouck:1176430877778124810>",
+            "name": "greendouck",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177284422903545947/0003.jpg?ex=6571f28f&is=655f7d8f&hm=dab4b5a78e6461081f911f6249eae9e2d66a9512f730c14a59af327a5bb5975e&"
+          },
+          {
+            "emoji": "<:golden_dragon:1176437427305451571>",
+            "name": "golden_dragon",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177284551270219868/OIP_7.jpg?ex=6571f2ad&is=655f7dad&hm=8c18ea817cb3b1ed6809bc5cc1b39e1bd46534f538b72b8371c7579915bd2c31&"
+          },
+          {
+            "emoji": "<:glacier_dog:1176451530958848010>",
+            "name": "glacier_dog",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177589221842747403/ai_2.jpg?ex=65730e6d&is=6560996d&hm=a6a43753a487cfd8c3e5458e2978a987d50778ecd95c0f5939dee17a6ef75132&"
+          },
+        
+          {
+            "emoji": "<:colourfull_pox:1176428464786636810>",
+            "name": "colourfull_pox",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177285608603930634/0007.jpg?ex=6571f3aa&is=655f7eaa&hm=36fe09acb76e3bba1ef5c9c657594e5ba607b74a302a70f04c325e16d83b12c1&"
+          },
+          {
+            "emoji": "<:candy_dum:1176428458616836126>",
+            "name": "candy_dum",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177286235639783504/0008.jpg?ex=6571f43f&is=655f7f3f&hm=638d61ab661cf43c2f7b40e9acbc75e8188cf5ace9437645cfcc254d764f62e2&"
+          },
+          {
+            "emoji": "<:bomber:1177206452419559496>",
+            "name": "bomber",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177286086762967080/OIP__8_-removebg-preview.png?ex=6571f41c&is=655f7f1c&hm=4124e174afb8be52a443745a73ee65bcc582e13ebcb97bb40e3144a0f2136407&"
+          },
+          {
+            "emoji": "<:blacksour:1176430872539439115>",
+            "name": "blacksour",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177285607710527558/0002.jpg?ex=6571f3a9&is=655f7ea9&hm=b5c95c0f61a9282651975e31d0a22fa2eb8a561f8ac199c3607caa246448a367&"
+          },
+          {
+            "emoji": "<:arimp:1177209108831678484>",
+            "name": "arimp",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177285102871511111/99f5fad3-9ab8-4dad-9f05-dea4d7034af7.jpg?ex=6571f331&is=655f7e31&hm=b73d9eca8b100dd37c4da59343b698d10aabfda46849bda2471c7abc24f2f842&"
+          },
+          {
+            "emoji": "<:ace_dum:1177206440277053510>",
+            "name": "ace_dum",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177284953445240932/e05283fa-7e45-49df-9adf-3d997ea7ace0-removebg-preview-min.png?ex=6571f30d&is=655f7e0d&hm=f72cb137c4800958f7b6519734aa3b4728801a7982d89a99b15e4b52178df4fb&"
+          },
+          {
+            "emoji": "<:Lfox:1177213110310944850>",
+            "name": "lfox",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177284738201960510/40972ee3-d88f-435c-a3f0-3c4b845619b4.jpg?ex=6571f2da&is=655f7dda&hm=779bd36ae1bcdb31d63be86b3b172b85e8fd3b6cb9a38209a0cf2a75fd1fcb08&"
+          },
+          {
+            "emoji": "<:Ldragon:1176437422901440552>",
+            "name": "ldragon",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1177284589442576474/OIG.jpg?ex=6571f2b7&is=655f7db7&hm=05154a028ff4eb6f4d669d7010551dc0364da97ef37334bbd67f94633f346d1b&"
+          },
+          {
+            "emoji": "<:Zypherion:1182211878974402621>",
+            "name": "zypherion",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1182210111750557706/4d856119-fca3-4022-bb2f-a2043b421399.jpg"
+          },
+          {
+            "emoji": "<:Zephriox:1182211894371700746>",
+            "name": "zephriox",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1182210110605512764/ff845555-905e-4304-ad18-bfe2d6a3b747.jpg"
+          },
+          {
+            "emoji": "<:Terradon:1182211863518384149>",
+            "name": "terradon",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1182210143962808411/cd46814d-5802-4c09-8eed-b34a36a10f74.jpg"
+          },
+          {
+            "emoji": "<:Sylvrion:1182211868631253012>",
+            "name": "sylvrion",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1182210143677599824/2c6167a4-6edd-4b01-aed6-841839fe9aec.jpg"
+          },
+          {
+            "emoji": "<:Nyxidra:1182211885525913660>",
+            "name": "nyxidra",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1182210111461134366/c0bf88f4-7825-4c03-84e0-ebd89cc07992.jpg"
+          },
+          {
+            "emoji": "<:Lumifang:1182211904807116882>",
+            "name": "lumifang",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1182210109854728273/089e2d20-41b6-4d9c-a270-35efae321243.jpg"
+          },
+          {
+            "emoji": "<:Crysmara:1182211898813448242>",
+            "name": "crysmara",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1182210110139928576/e532b6d7-34f2-4415-b4ee-ab0a74b05cc5.jpg"
+          },
+          {
+            "emoji": "<:Aurorath:1182211890169004122>",
+            "name": "aurorath",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1182210110907486208/415fe29b-7507-4aff-b02a-509443a4ae11.jpg"
+          },
+          {
+            "emoji": "<:Aquilith:1182211873148514344>",
+            "name": "aquilith",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1182210143295905792/94130ffb-4652-47fe-b043-3e6ec311b94f.jpg"
+          },
+          {
+            "emoji": "<:Sibuina:1182311828534075442>",
+            "name": "sibuina",
+            "image":
+              "https://cdn.discordapp.com/attachments/1177280453581996123/1182210111154966538/9bbac48c-77c9-4c60-96c1-0311ef9d1a98.jpg"
+          },
+            
+        
+          {
+            "emoji": "<:kirin:1190999501264130078>",
+            "name": "kirin",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1190998166686941314/177e920f-8f62-4d5b-a27b-0751d6543c86.jpg"
+          },
+          {
+            "emoji": "<:qilin:1190999482679181332>",
+            "name": "qilin",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1190998167374798858/1c645aa7-28f0-4e45-a4f9-247e9076b169.jpg"
+          },
+          {
+            "emoji": "<:manticore:1190999507408793620>",
+            "name": "manticore",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1190998167689379891/28643e6a-df35-47cb-922d-bedbc7fef7ec.jpg"
+          },
+          {
+            "emoji": "<:fenghuang:1190999487922057226>",
+            "name": "fenghuang",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1190998167982973028/02af863a-2fb6-4d6b-952b-2fd878a43183.jpg"
+          },
+          {
+            "emoji": "<:ahool:1190999512836227193>",
+            "name": "ahool",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1190998168238817382/dbf12ad5-77c7-437b-9aed-ed60d515e797.jpg"
+          },
+          {
+            "emoji": "<:jabberwocky:1190999523510718544>",
+            "name": "jabberwocky",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1190998168511463515/image_bTNwzUCl_1691897739926_raw.jpg"
+          },
+          {
+            "emoji": "<:baku:1190999530255159367>",
+            "name": "baku",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1190998168746336266/OIP_23.jpg"
+          },
+          {
+            "emoji": "<:tizheruk:1190999493873766410>",
+            "name": "tizheruk",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1190998169123815474/89be79e1-a7f3-44a9-a054-7c397452966e.jpg"
+          },
+        
+          {
+            "emoji": "<:raiju:1191008999898882078>",
+            "name": "raiju",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1191006764653625444/547362c7-700c-45b6-bc49-1a7453fdffe1.jpg"
+          },
+        
+          {
+            "emoji": "<:tikbalang:1191009005976432741>",
+            "name": "tikbalang",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1191006764926242876/667e83ce-c77d-4d84-8109-0072fce0f5e3.jpg"
+          },
+        
+          {
+            "emoji": "<:ze:1191009015757537351>",
+            "name": "ze",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1191006765219848322/6678d8b9-af1e-4336-940b-2c6b05674c7e.jpg"
+          },
+          {
+            "emoji": "<:bunyip:1191008978088505387>",
+            "name": "bunyip",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1191006765509251072/b8a576de-ba15-4457-a4f8-858697d59b12.jpg"
+          },
+          {
+            "emoji": "<:leshy:1191008993624199269>",
+            "name": "leshy",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1191006765819633774/d1ce578d-129f-42d3-94a4-5d7217051776.jpg"
+          },
+          {
+            "emoji": "<:cherufe:1191008986888155247>",
+            "name": "cherufe",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1191006766134214666/810bbc69-70f1-4679-bc5d-feb71d717eaf.jpg"
+          },
+          {
+            "emoji": "<:ammit:1191008971935461476>",
+            "name": "ammit",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1191006766415220836/5e6e6fb1-eb13-4a0e-b6a2-b757c7d28aa6.jpg"
+          },
+          {
+            "emoji": "<:yara:1191009008849526804>",
+            "name": "yara",
+            "image":
+              "https://media.discordapp.net/attachments/1177280453581996123/1191006767128264724/43b1bb27-1330-49d1-bd91-44e5b6cbf532.jpg"
+          }
+    ]
+}

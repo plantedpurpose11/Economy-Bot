@@ -1,0 +1,84 @@
+{
+    "wallpapers": [
+        {
+            "id": "azure_skies",
+            "name": "Azure Skies",
+            "link": "https://cdn.discordapp.com/attachments/1181265747884920914/1181268042810937464/pexels-lumn-167699.jpg",
+            "price": 35000,
+            "description": "A serene blue sky with gentle clouds, perfect for a peaceful profile.",
+            "rarity": "common"
+        },
+        {
+            "id": "serene_meadows",
+            "name": "Serene Meadows",
+            "link": "https://cdn.discordapp.com/attachments/1181265747884920914/1181268044249571368/pexels-aleksandar-pasaric-2341830.jpg",
+            "price": 45000,
+            "description": "A beautiful meadow landscape with vibrant flowers and lush grass.",
+            "rarity": "common"
+        },
+        {
+            "id": "moonlit_mirage",
+            "name": "Moonlit Mirage",
+            "link": "https://cdn.discordapp.com/attachments/1181265747884920914/1181268045717573773/pexels-maxime-francis-2246476.jpg",
+            "price": 60000,
+            "description": "A mystical night scene with the moon casting enchanting shadows.",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "enchanted_forest",
+            "name": "Enchanted Forest",
+            "link": "https://cdn.discordapp.com/attachments/1181265747884920914/1181268046745194667/pexels-james-wheeler-417074.jpg",
+            "price": 65000,
+            "description": "A magical forest filled with ancient trees and mysterious lights.",
+            "rarity": "uncommon"
+        },
+        {
+            "id": "radiant_horizon",
+            "name": "Radiant Horizon",
+            "link": "https://cdn.discordapp.com/attachments/1181265747884920914/1181269368429088858/pexels-janez-podnar-1424246.jpg",
+            "price": 115000,
+            "description": "A stunning horizon view with radiant colors painting the sky.",
+            "rarity": "rare"
+        },
+        {
+            "id": "sunset_serenade",
+            "name": "Sunset Serenade",
+            "link": "https://cdn.discordapp.com/attachments/1181265747884920914/1181272722769195048/R_7.jpg",
+            "price": 120000,
+            "description": "A breathtaking sunset scene with warm, golden hues.",
+            "rarity": "rare"
+        },
+        {
+            "id": "celestial_symphony",
+            "name": "Celestial Symphony",
+            "link": "https://cdn.discordapp.com/attachments/1181265747884920914/1181271220478550037/OIP_17.jpg",
+            "price": 250000,
+            "description": "A cosmic display of stars and galaxies in perfect harmony.",
+            "rarity": "epic"
+        },
+        {
+            "id": "oceanic_dreamscape",
+            "name": "Oceanic Dreamscape",
+            "link": "https://cdn.discordapp.com/attachments/1181265747884920914/1181271220830863451/R_6.jpg",
+            "price": 300000,
+            "description": "A mesmerizing underwater scene with vibrant marine life.",
+            "rarity": "epic"
+        },
+        {
+            "id": "whispering_willows",
+            "name": "Whispering Willows",
+            "link": "https://cdn.discordapp.com/attachments/1181265747884920914/1181271221120274482/OIP_16.jpg",
+            "price": 360000,
+            "description": "Ancient willow trees swaying in a gentle, mystical breeze.",
+            "rarity": "legendary"
+        },
+        {
+            "id": "ethereal_elegance",
+            "name": "Ethereal Elegance",
+            "link": "https://cdn.discordapp.com/attachments/1181265747884920914/1181297324962623559/pexels-simon-berger-1323550.jpg",
+            "price": 500000,
+            "description": "A masterpiece of ethereal beauty and elegant design.",
+            "rarity": "legendary"
+        }
+    ]
+}

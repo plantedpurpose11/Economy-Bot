@@ -1,0 +1,36 @@
+{
+    "prefix": "ep",
+    "botName": "EcoPal",
+    "commandLogs": "1324689874564943872",
+    "voteChannelID": "channel_id",
+    "votePrize": 25000,
+    "guildJoinLogs": "channel_id",
+    "bankSubmissionChannel": "channel_id",
+    "clientId": "YOUR_BOT_ID",
+    "guildId": "YOUR_DEVELOPMENT_GUILD_ID",
+    "adminIds": ["bot_admin_1", "bot_admin_2"],
+    "levelUpBackgroundImage": "https://i.ibb.co/kGVsBgN/botbanner.png",
+    "helpMenuImage": "https://i.ibb.co/kGVsBgN/botbanner.png",
+    "botInviteLink": "YOUR_BOT_INVITE_LINK",
+    "topggVoteLink": "https://top.gg/bot/1175081690130034720/vote",
+    "websiteLink": "https://ecopal-docs.netlify.app/",
+    "topgg": {
+        "apiKey": "your_topgg_api_key",
+        "botId": "YOUR_BOT_ID",
+        "voteReward": 25000
+    },
+    "images": {
+        "shipBackground": "https://cdn.discordapp.com/attachments/1177280453581996123/1183122747971354727/OIP_22.jpg",
+        "levelBackground": "https://i.ibb.co/kGVsBgN/botbanner.png",
+        "hunters": {
+            "background": "https://cdn.discordapp.com/attachments/1177280453581996123/1182592330931392512/OIP_20.jpg",
+            "frame": "https://cdn.discordapp.com/attachments/1177280453581996123/1182614234073419816/R__8_-removebg-preview.png",
+            "defaultAnimal": "https://cdn.discordapp.com/attachments/1177280453581996123/1182619420925898762/questioning-concept-with-question-mark.jpg",
+            "warningIcon": "https://media.discordapp.net/attachments/1177280453581996123/1182624616473178142/R__10_-removebg-preview.png"
+        }
+    },
+    "REPORT_CHANNEL": "channel_id",
+    "suggestionChannel": "channel_id",
+    "supportServer": "YOUR_BOT_SUPPORT_SERVER_LINK",
+    "securityGuardPrice": "security_guard_price"
+}

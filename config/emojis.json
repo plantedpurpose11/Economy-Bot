@@ -1,0 +1,64 @@
+{
+    "menu": {
+        "action": "<:action:1192399510639485010>",
+        "fight": "<:fight:1192399505618907248>",
+        "level": "<:level:1192399520298975232>",
+        "shop": "<:shop:1192399515978846269>",
+        "give": "<:give:1192399500078219286>",
+        "gem": "<:gem:1192399496005550131>",
+        "farming": "<:farming:1192399544256831540>",
+        "trading": "<:trading:1192399550720245822>",
+        "hunters": "<:hunters:1192399539093647391>",
+        "investment": "<:investment:1192399531644563526>",
+        "jungle": "<:jungle:1192400876778823721>",
+        "bank": "<:bank:1192399525487317092>",
+        "gambling": "<:gembling:1192401538891657277>",
+        "maintenance": "<:Maintenance:1180571189601648682>",
+        "orange_book": ":orange_book:"
+    },
+    "commands": {
+        "question": "<:question_eco:1180578351526711427>",
+        "info": "<:Info:1180579678344445982>"
+    },
+    "currency": {
+        "ecopal": "<:ecopal:1183387676775284906>",
+        "coins": ":coin:",
+        "money": ":moneybag:"
+    },
+    "categories": {
+        "economy": ":notebook:",
+        "activities": ":green_book:",
+        "utilities": ":orange_book:"
+    },
+    "status": {
+        "success": ":white_check_mark:",
+        "error": ":x:",
+        "warning": ":warning:",
+        "loading": ":arrows_counterclockwise:"
+    },
+    "default": {
+        "book": ":orange_book:",
+        "coin": ":coin:",
+        "money_bag": ":moneybag:",
+        "bank": ":bank:",
+        "gem": ":gem:",
+        "star": ":star:",
+        "trophy": ":trophy:",
+        "chart": ":chart_with_upwards_trend:",
+        "shopping_cart": ":shopping_cart:",
+        "gift": ":gift:",
+        "scroll": ":scroll:",
+        "sparkles": ":sparkles:",
+        "heart": ":heart:",
+        "crossed_swords": ":crossed_swords:",
+        "shield": ":shield:",
+        "fishing_pole": ":fishing_pole_and_fish:",
+        "pick": ":pick:",
+        "axe": ":axe:",
+        "seedling": ":seedling:",
+        "leaves": ":leaves:",
+        "slot_machine": ":slot_machine:",
+        "game_die": ":game_die:",
+        "dart": ":dart:"
+    }
+}
