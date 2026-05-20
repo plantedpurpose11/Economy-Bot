@@ -3,7 +3,7 @@
     "axios": "^1.6.2",
     "canvacord": "^5.4.10",
     "canvafy": "^7.1.0",
-    "canvas": "^2.11.2",
+    "canvas": "^3.2.3",
     "discord.js": "^14.14.1",
     "dotenv": "^16.3.1",
     "mongodb": "^6.3.0",
