@@ -2,7 +2,7 @@
     "prefix": "$",
     "botName": "Smelting Shop",
     "commandLogs": "1503347030439755948",
-    "voteChannelID": "channel_id",
+    "voteChannelID": "1503347030439755948",
     "votePrize": 25000,
     "guildJoinLogs": "channel_id",
     "bankSubmissionChannel": "1503347030439755948",
